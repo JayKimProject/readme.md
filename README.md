@@ -1,3 +1,3 @@
 # readme.md
 
-# Jay Kim - Data Scientist
+Jay Kim - Data Scientist
