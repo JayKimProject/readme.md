@@ -28,6 +28,7 @@ BSc in environmental engineering
 
 ### Contact me
 jay.kim07@yahoo.com
+
 https://www.linkedin.com/in/jay-kim-0a0433120
 
 
