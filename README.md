@@ -21,6 +21,8 @@ GenerativeAI Fundamental (badge)
 
 ### Education 
 MSc in geophysics at Imperial College London
+
 MSc in process engineering at University of Nottingham
+
 BSc in environmental engineering
 
