@@ -4,7 +4,7 @@
 
 1. Lead Data Scientist/Engineer with expertise in advanced ML/DL modeling.
 2. Data Scientist/Engineer specializing in real-time data and IoT solutions.
-3. Machine Learning Scientist driving A.I. innovation in advanced analytics.
+3. Machine Learning Scientist/Engineer driving A.I. innovation in advanced analytics.
 4. A.I. Scientist/Engineer at the forefront of Edge AI
 
 ### Skill 
